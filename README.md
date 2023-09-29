@@ -1,5 +1,7 @@
 # H1_Extra_Josephus_problem
 
+This is a 4 out of 4 difficulty extra assignment.
+
 Filler content:
 How do you avoid being executed? Or just being picked in round ball? 
 The Josephus problem dates all the way back to the Roman times, and this pattern is used a lot in math and computer science.
